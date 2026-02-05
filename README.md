@@ -31,10 +31,16 @@ An end to end analytics project that ingests MovieLens data, transforms it into 
 
 ## How to run locally
 1. Clone the repo
-```bash
+```
 git clone https://github.com/chelseatalexandre/streaming-analytics-pipeline.git
 cd streaming-analytics-pipeline
+```
+2. Install dependencies
+```
 python3 -m pip install -r requirements.txt
+```
+3.Run the Streamlit dashboard
+```
 python3 -m streamlit run dashboard.py
 
 
