@@ -22,6 +22,12 @@ Example Streamlit dashboard displaying movie rating trends and engagement metric
 - Interactive dashboard development using Streamlit
 - Data visualization of user engagement and rating trends
 
+## Dataset
+
+This project uses the MovieLens dataset provided by the GroupLens Research Lab.
+
+https://grouplens.org/datasets/movielens/
+
 
 ## What this project does
 - Loads raw MovieLens CSV files
