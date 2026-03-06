@@ -11,8 +11,7 @@ The final output is an interactive Streamlit dashboard that visualizes:
 This project simulates a real data engineering and analytics pipeline, showcasing database design, SQL querying, and dashboard development in a production-style workflow.
 
 ## Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/main_dashboard.png)
 
 
 ## What this project does
