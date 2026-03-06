@@ -7,11 +7,12 @@ The final output is an interactive Streamlit dashboard that visualizes:
 
 - Top movies by rating volume and average score
 - Daily engagement metrics over time
-- Genre-level performance comparisons
+- Genre-level performance comparisons.
 This project simulates a real data engineering and analytics pipeline, showcasing database design, SQL querying, and dashboard development in a production-style workflow.
 
 ## Dashboard Preview
 ![Dashboard](screenshots/main_dashboard.png)
+Example Streamlit dashboard displaying movie rating trends and engagement metrics.
 
 
 ## What this project does
