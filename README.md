@@ -14,6 +14,14 @@ This project simulates a real data engineering and analytics pipeline, showcasin
 ![Dashboard](screenshots/main_dashboard.png)
 Example Streamlit dashboard displaying movie rating trends and engagement metrics.
 
+## Skills Demonstrated
+
+- Data cleaning and transformation with Pandas
+- SQL-style analytics queries on rating datasets
+- Data pipeline workflow from ingestion to visualization
+- Interactive dashboard development using Streamlit
+- Data visualization of user engagement and rating trends
+
 
 ## What this project does
 - Loads raw MovieLens CSV files
